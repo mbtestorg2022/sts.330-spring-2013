@@ -27,29 +27,214 @@ This is a seminar. Students are required to give at least one seminar presentati
 Grading
 -------
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Class participation | 30% |
-| Short paper | 20% |
-| Final paper | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Schedule
 ---------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: What Is Life, and How Do We Study It? | &nbsp; |
-| 2 | Before Biology: Experiencing and Organizing Bodies and Nature | &nbsp; |
-| 3 | Biology, in Theory | &nbsp; |
-| 4 | Biology Emerging: Heredity and Life in Formation and Evolution | &nbsp; |
-| 5 | Form I: Genes, Molecular Biology | &nbsp; |
-| 6 | Form II: Race, Then and Now | Short paper due |
-| 7 | Form III: Bodies and Religion | &nbsp; |
-| 8 | Function I: Medicine and Difference | Prospectus due |
-| 9 | Function II: Medicine and Markets | &nbsp; |
-| 10 | Transformation I: New Biopolitics and Bioeconomies | &nbsp; |
-| 11 | Transformation II: Life at Sea | &nbsp; |
-| 12 | Paper Presentations | Final presentations 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: What Is Life, and How Do We Study It?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Before Biology: Experiencing and Organizing Bodies and Nature
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Biology, in Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Biology Emerging: Heredity and Life in Formation and Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Form I: Genes, Molecular Biology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Form II: Race, Then and Now
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Form III: Bodies and Religion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Function I: Medicine and Difference
+{{< tdclose >}}
+{{< tdopen >}}
+Prospectus due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Function II: Medicine and Markets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Transformation I: New Biopolitics and Bioeconomies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Transformation II: Life at Sea
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Collaboration Policy
 --------------------
