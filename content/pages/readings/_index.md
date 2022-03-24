@@ -99,7 +99,7 @@ Coleman, William. _Biology in the Nineteenth Century: Problems of Form, Function
 
 Foucault, Michel. "Classifying." In _The Order of Things: An Archaeology of the Human Sciences._ Translated from the French 'Les mots et los choses'. Random House, 1994, pp. 125–65. ISBN: 9780679753353.
 
-Helmreich, Stefan, and Sophia Roosth. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Life Forms: A Keyword Entry." (PDF)](https://anthropology.mit.edu/sites/default/files/documents/helmreich_lifeforms.pdf) _Representations_ 112, no. 1 (2010): 27–53.
+Helmreich, Stefan, and Sophia Roosth. ["Life Forms: A Keyword Entry." (PDF)](https://anthropology.mit.edu/sites/default/files/documents/helmreich_lifeforms.pdf) _Representations_ 112, no. 1 (2010): 27–53.
 
 Beer, Gillian. "Preface to the Second Edition", and "Introduction." In _Darwin's Plots: Evolutionary Narrative in Darwin, George Eliot and Nineteenth-Century Fiction_. Cambridge University Press, 2000, pp. xvii-xxxiii, and 1–21. ISBN: 9780521783927. \[Preview with [Google Books](http://books.google.com/books?id=whtTjMbt6gYC&pg=PA1=onepage)\]
 
